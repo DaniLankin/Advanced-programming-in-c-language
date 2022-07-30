@@ -1,4 +1,4 @@
-A lower triangular matrix A is a square matrix where each term aij=0 for i<j. All terms above the main diagonal are zero. 
+A lower triangular matrix A is a square matrix where each term Aij=0 for i<j. All terms above the main diagonal are zero. 
 Example:
 4 0 0 0 0
 0 0 0 8 6
@@ -7,7 +7,7 @@ Example:
 1 7 3 8 1
 
  
-An upper triangular matrix A is a square matrix where each term aij=0 for i>j. All terms below the main diagonal are zero. 
+An upper triangular matrix A is a square matrix where each term Aij=0 for i>j. All terms below the main diagonal are zero. 
 Example:
 4 7 1 2 3
 0 6 5 3 9
